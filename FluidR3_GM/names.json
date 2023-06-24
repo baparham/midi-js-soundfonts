@@ -127,5 +127,6 @@
   "helicopter",
   "applause",
   "gunshot",
-  "standard_kit"
+  "standard_kit",
+  "haptic_kit"
 ]
