@@ -129,4 +129,5 @@ export const instruments = [
   'gunshot',
   'standard_kit',
   'haptic_kit',
+  'haptic_bass',
 ];
